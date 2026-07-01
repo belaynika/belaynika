@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hello! ❄ . ɞ ˚ ‧. ɞ ˚ ‧
 
+- I am a student in college 
+- I'm currently learning: Python 🐍 
 <!--
 **cryptix-jpg/cryptix-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
