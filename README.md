@@ -1,18 +1,24 @@
-## Hello! ❄ . ɞ ˚ ‧. ɞ ˚ ‧
+### Hi there! 👋
 
-- I am a student in college 
-- I'm currently learning: Python 🐍 & JavaScript :scroll:
-<!--
-**cryptix-jpg/cryptix-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
 
-Here are some ideas to get you started:
+- 🏫 CS Student
+- 🎯 Building a strong foundation in core programming, backend architecture, and API design.
+- 🐍 Currently deepening my Python knowledge & exploring RESTful APIs
+- 🎨 Other skills include basic Frontend (HTML, CSS, JS) 
+- 🎮 I love to play video games in my free time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Frontend Basics
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🚀 Currently Exploring
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=openapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
